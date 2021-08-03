@@ -23,7 +23,7 @@
 - :file_folder:_Documentos_:
     +[Trifoliar](Trifoliar_Informe1_Grupo5.pdf)
     
-https://www.youtube.com/watch?v=6L0l2zxln0w
+[![Alt text](https://img.youtube.com/vi/https://youtu.be/6L0l2zxln0w/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
 
     
 
