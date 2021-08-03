@@ -22,6 +22,8 @@
 ### En el trifoliar encontrará información para realizar un mantenimiento preventivo a una computadora de una manera resumida, sin adentrarse en tanto detalle sobre componentes.
 - :file_folder:_Documentos_:
     +[Trifoliar](Trifoliar_Informe1_Grupo5.pdf)
+    
+https://www.youtube.com/watch?v=6L0l2zxln0w
 
     
 
