@@ -11,7 +11,7 @@
 | Diego	André 	       | Mazariegos Barrientos | 202003975  |
 | Luis Fernando 	   | Gutiérrez Ramírez     | 202001295  |
 | Yeinny Melissa 	   | Catalán de León       | 202004725  |
-|----------------------------Tutores-------------------------
+|                            Tutores                        |
 | Horacio  	           | Ciraiz Orellana       | 201513758  |
 | Javier Oswaldo   	   | Mirón Cifuentes       | 201602694  |
 # _______________________________________________________________
