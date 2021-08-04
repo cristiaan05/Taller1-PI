@@ -11,6 +11,9 @@
 | Diego	André 	       | Mazariegos Barrientos | 202003975  |
 | Luis Fernando 	   | Gutiérrez Ramírez     | 202001295  |
 | Yeinny Melissa 	   | Catalán de León       | 202004725  |
+|----------------------------Tutores-------------------------
+| Horacio  	           | Ciraiz Orellana       | 201513758  |
+| Javier Oswaldo   	   | Mirón Cifuentes       | 201602694  |
 # _______________________________________________________________
 ## MANUAL 
 ### En el manual encontrará detalladamente los pasos que se siguieron para el mantenimiento preventivo de una laptop, así como las herramientas recomendadas a utilizar y una descripción sobre los diferentes tipos de mantenimiento que existen, también podrá encontrar información acerca de los componentes de una computadora.
